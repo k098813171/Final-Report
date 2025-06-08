@@ -1,0 +1,10 @@
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\bin\Debug\期末專題.exe
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\bin\Debug\期末專題.pdb
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.csproj.AssemblyReference.cache
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.Properties.Resources.resources
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.csproj.GenerateResource.cache
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.csproj.CoreCompileInputs.cache
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.exe
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\期末專題.pdb
+C:\Users\k0968\Desktop\期末專題\期末專題\期末專題\obj\Debug\ComicRentalSystem.Form1.resources
